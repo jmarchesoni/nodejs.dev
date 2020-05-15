@@ -17,6 +17,8 @@ If we omit the filename, we use it in REPL mode:
 node
 ```
 
+> Tip: REPL stands for Read-Evaluate-Print-Loop, and it's a great way to explore the Node.js features in a quick way. See the [Read-Eval-Print Loop article on Wikipedia](https://en.wikipedia.org/wiki/Read-eval-print_loop) to learn more.
+
 If you try it now in your terminal, this is what happens:
 
 ```txt
